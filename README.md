@@ -65,4 +65,5 @@ Click “Decode Message” to reveal the hidden text.
 
 🌐 Try It Out
 
-👉 Click here to view this project on GitHub
+👉 [**Click here to view this project on GitHub**](https://github.com/RahulSingh2222/SteganographyTool)
+
